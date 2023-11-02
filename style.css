@@ -1,0 +1,27 @@
+kujundatudtabel {
+
+    width: 100%; 
+    border-style: double;
+
+
+}
+table, th, td {
+    border: 1px solid;
+  }
+
+h1{
+    color: red;
+    font-size: 10;
+    font-family: cursive;
+}
+h2{
+    color: blue;
+}
+p{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+   border: 10px solid transparent;
+   padding: 15px; 
+}
